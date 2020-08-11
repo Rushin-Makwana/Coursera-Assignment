@@ -8,18 +8,16 @@ h1 {
     color: black;
 }
 p{	
-	
 	float: left;
 	border: 1px solid black;
 	padding: 10px;
 	margin: 1.66%;
-	background-color: #808080;
-	position: relative;
+	background-color: #ffffcb;
+    position: relative;
 }
 sec_element
 {	
-	background-color: #808080;
-	border: 1px solid black;
+    border: 1px solid black;
 	border-top-style: none;
   	border-right-style: none;
 	padding-left: 15px;
@@ -29,7 +27,7 @@ sec_element
 	top: 0px;
 }
 .p1{
-	background-color: #6699ff;
+	background-color: #6a5acd;
 	}	
 .p2{
 	background-color: #ff5050;
